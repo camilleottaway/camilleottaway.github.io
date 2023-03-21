@@ -16,7 +16,7 @@
         <ul class="navigation">
             <li> <a href="#about" class="nav-link"> About</a></li>
             <li> <a href="#skills" class="nav-link"> Skills</a></li>
-            <li> <a href="assets/html/projects.md" class="nav-link"> Projects</a></li>
+            <li> <a href="assets/html/projects.html" class="nav-link"> Projects</a></li>
             <li> <a href="#contact" class="nav-link"> Contact</a></li>
         </ul>
         <button class="burger-menu" id="burger-menu">
@@ -24,29 +24,10 @@
         </button>
     </nav>
 
-    <!--Hero Section-->
-    <section class="hero" id="about">
-        <img
-        src="assets/images/Beach_Headshot.jpg"
-        alt="photo of me near the ocean"
-        loading="lazy"
-        class="hero-img"
-        />
-    <div class="bio animate__animated animate__shakeX">
-        <h2 class="bio-title"> About Me </h2>
-        <p class="bio-text">
-            Hi! I'm Camille. I'm passionate about equity and innovation in STEAM education. 
-            I'm a people person, and believe a sense of belonging
-            is important in classrooms, communities, teams, and families.
-            I strive to make people feel they belong by listening, finding common ground,
-            and modeling kindness. I enjoy meeting new people and learning new moves
-            at local swing and lindy hop dances.
-        </p>
-    </section>
 
-    <!-- More About-->
+    <!-- Project 1 -->
     <section class="more-about">
-        <h2> More About Me</h2>
+        <h2> Nimble Know</h2>
         <p> I seek to make high quality STEAM education available to all children 
             through teaching and education software development. I see STEAM education as an opportunity for equity.
             My coursework and 
