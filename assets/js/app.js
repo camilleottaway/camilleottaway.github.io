@@ -11,18 +11,15 @@ scrollUp.addEventListener("click", () => {
 
 // Nav hamburgerburger selections
 
-const burger_index = document.querySelector("#burger-menu");
-const burger_project = document.querySelector("#burger-menu-projects");
+const burger = document.querySelector("#burger-menu");
 const ul = document.querySelector("nav ul");
 const nav = document.querySelector("nav");
 
-burger_index.addEventListener("click", () => {
+burger.addEventListener("click", () => {
     ul.classList.toggle("show");
   });
   
-burger_project.addEventListener("click", () => {
-    ul.classList.toggle("show");
-  });
+
 
   
 
