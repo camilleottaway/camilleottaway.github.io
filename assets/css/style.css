@@ -356,6 +356,22 @@ nav ul li {
       .more-about p {
         text-align: justify;
       }
+
+      /* Fix projects Page for small screens */
+
+      .projects-container {
+        flex-direction: column;
+      }
+    
+      .project-container {
+        width: 20.875rem;
+      }
+
+      /* Fix contacts  for small screens */
+      .contact-form-container {
+        max-width: 23.75rem;
+      }
+    
     
     
     
