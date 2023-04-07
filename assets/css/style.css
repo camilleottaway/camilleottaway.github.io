@@ -383,6 +383,11 @@ nav ul li {
     .bio {
       width: 18.3rem;
     }
+
+    .more-about {
+        margin-top: 1rem;
+        padding: 1rem 1rem;
+      }
   
     .project-container {
       width: 17.875rem;
