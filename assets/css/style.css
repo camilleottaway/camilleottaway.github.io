@@ -329,7 +329,7 @@ nav ul li {
 
 /*styles hero section for small screens*/
       .hero {
-        margin-top: -4rem;
+        margin-top: 2rem;
         flex-direction: column;
         gap: 0;
       }
@@ -377,7 +377,7 @@ nav ul li {
   @media screen and (max-width: 420px) {
     .hero img {
       height: 37.5rem;
-      width: 23rem;
+      width: 20rem;
     }
   
     .bio {
