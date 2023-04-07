@@ -336,7 +336,7 @@ nav ul li {
     
       .hero img {
             height: 37.5rem;
-            width: 28rem;
+            width: 30rem;
         }
     
       .bio {
@@ -376,7 +376,7 @@ nav ul li {
 
   @media screen and (max-width: 420px) {
     .hero img {
-      height: 35rem;
+      height: 37.5rem;
       width: 23rem;
     }
   
