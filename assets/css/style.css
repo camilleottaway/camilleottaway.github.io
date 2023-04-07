@@ -302,6 +302,7 @@ nav ul li {
 
   @media screen and (max-width: 720px) {
     /*changes reflects on screen with a width of 720px and below*/
+    /*styles burger nav menu */
     nav {
         padding: 1.5rem 1rem;
       }
@@ -325,8 +326,42 @@ nav ul li {
       nav ul.show {
         transform: translateX(0);
       }
+
+/*styles hero section for small screens*/
+      .hero {
+        margin-top: -4rem;
+        flex-direction: column;
+        gap: 0;
+      }
+    
+      .hero img {
+            height: 37.5rem;
+            width: 27rem;
+        }
+    
+      .bio {
+        margin-top: -7rem;
+        width: 20.5rem;
+      }
+
+      .more-about {
+        margin-top: 2rem;
+        padding: 1rem 3.5rem;
+      }
+    
+      .more-about h2 {
+        text-align: center;
+      }
+    
+      .more-about p {
+        text-align: justify;
+      }
+    
+    
     
     
   }
+
+
   
   
