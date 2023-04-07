@@ -103,7 +103,7 @@ nav ul li {
 
 .hero img {
     height: 37.5rem;
-    width: 25rem;
+    width: 28rem;
 }
 
 .bio {
@@ -336,7 +336,7 @@ nav ul li {
     
       .hero img {
             height: 37.5rem;
-            width: 27rem;
+            width: 28rem;
         }
     
       .bio {
@@ -373,11 +373,11 @@ nav ul li {
       }
     
   }
-  
+
   @media screen and (max-width: 420px) {
     .hero img {
       height: 37.5rem;
-      width: 23rem;
+      width: 28rem;
     }
   
     .bio {
